@@ -1,0 +1,9 @@
+.articulos{
+    display: block;
+    width: 50%;
+}
+.articulos img{
+    width: 50%;
+    height: 50%;
+    object-fit: cover;
+}
